@@ -1,5 +1,8 @@
 # singulyar-llm — локальная модель СИНГУЛЯРА
 
+<p align="center"><img src=".github/social-preview.png" alt="singulyar-llm" width="100%"></p>
+
+
 Веса + инструкционный слой для голосового управления СИНГУЛЯРОМ RUVSON.
 Модель живёт у человека в браузере (wllama / llama.cpp → WebAssembly),
 данные не покидают устройство.
