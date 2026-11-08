@@ -1,0 +1,5 @@
+{
+ "schema": "wave3/weights-manifest@1",
+ "parts": [],
+ "note": "(части регистрируются scripts/weights_gate.py register при появлении весов; веса живут в Release, не в git)"
+}
