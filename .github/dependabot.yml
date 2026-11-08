@@ -1,5 +1,6 @@
 # П-19/T20 канон роя: еженедельно, группы, лимиты; экосистемы по телу репо
 version: 2
+updates:
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
