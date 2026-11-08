@@ -1,0 +1,35 @@
+# singulyar-llm
+> Локальная модель СИНГУЛЯРА: Qwen2.5-0.5B-Instruct GGUF частями + инструкционный слой (ОБУЧЕНИЕ). Веса Apache-2.0, генерация — в браузере человека.
+
+Автоген 2026-11-08 · источник: живой GitHub API (номера и файлы не руками) · владелец rtynbirf · ветка `main`
+
+## Мембрана
+- README.md — для человека (singulyar-llm — локальная модель СИНГУЛЯРА)
+- AGENTS.md — есть
+- LICENSE — Apache-2.0
+- topics: gguf, inference, local-llm, offline, qwen, ruvson, voice-assistant, wasm
+
+## Карта корня
+- .gitattributes
+- .github/
+- .gitignore
+- AGENTS.md
+- CODEOWNERS
+- CODE_OF_CONDUCT.md
+- CONTRIBUTING.md
+- LICENSE
+- MANIFEST.txt
+- PULSE.md
+- README.md
+- SECURITY.md
+- VERSION
+- ОБУЧЕНИЕ/
+- СБОРКА/
+
+## CI
+- workflow: self-audit
+
+## Ссылки
+- [GitHub](https://github.com/rtynbirf/singulyar-llm)
+- [README](https://github.com/rtynbirf/singulyar-llm/blob/main/README.md)
+- [raw llms.txt](https://raw.githubusercontent.com/rtynbirf/singulyar-llm/main/llms.txt)
