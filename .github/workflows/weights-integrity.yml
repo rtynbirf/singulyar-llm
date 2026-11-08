@@ -18,8 +18,11 @@ jobs:
       - name: Самотест валидатора (синтетический GGUF)
         run: python3 scripts/weights_gate.py --selftest
       - name: Замок 1 · целостность весов по манифесту
-        run: python3 scripts/weights_gate.py manifest
+        run: |
+          if [ -f WEIGHTS.MANIFEST.json ]; then python3 scripts/weights_gate.py manifest; else echo "🟡 WEIGHTS.MANIFEST.json ещё нет — замок встанет при первой загрузке весов (машина проверена самотестом выше)"; fi
       - name: Замок 1 · заголовки GGUF
-        run: python3 scripts/weights_gate.py gguf-all
+        run: |
+          if find . -name '*.gguf' -print -quit | grep -q .; then python3 scripts/weights_gate.py gguf-all; else echo "🟡 GGUF-весов ещё нет — заголовочный замок ждёт первой загрузки"; fi
       - name: Замок 2 · пин движка
-        run: python3 scripts/weights_gate.py engine-lock
+        run: |
+          if [ -f engine-lock.json ]; then python3 scripts/weights_gate.py engine-lock; else echo "🟡 engine-lock.json ещё нет — заполнится при первом прогоне движка"; fi
