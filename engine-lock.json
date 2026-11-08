@@ -1,0 +1,7 @@
+{
+ "engine": "llama.cpp",
+ "commit": "",
+ "wasm_sha256": "",
+ "pinned_at": "",
+ "note": "(заполняется при первом прогоне: commit-SHA llama.cpp и hash wasm-сборки)"
+}
