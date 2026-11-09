@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="banner.png" alt="singulyar-llm — Локальная модель СИНГУЛЯРА: Qwen2.5-0.5B в GGUF" width="100%">
+</div>
+
 # singulyar-llm — локальная модель СИНГУЛЯРА
 
 <p align="center"><img src=".github/social-preview.png" alt="singulyar-llm" width="100%"></p>
