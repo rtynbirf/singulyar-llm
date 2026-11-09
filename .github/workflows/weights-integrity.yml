@@ -26,3 +26,6 @@ jobs:
       - name: Замок 2 · пин движка
         run: |
           if [ -f engine-lock.json ]; then python3 scripts/weights_gate.py engine-lock; else echo "🟡 engine-lock.json ещё нет — заполнится при первом прогоне движка"; fi
+
+permissions:
+  contents: read
