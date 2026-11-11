@@ -2,6 +2,15 @@
   <img src="banner.png" alt="singulyar-llm — Локальная модель СИНГУЛЯРА: Qwen2.5-0.5B в GGUF" width="100%">
 </div>
 
+<!--ФОРЖ:МУЗА:НАЧАЛО-->
+<div align="center">
+  <img src="repo-muse.svg" width="100%" alt="Муза singulyar-llm: картина кузни ПОЛИМАТ, раунд 9" />
+  <br/>
+  <img src="forge-divider.svg" width="62%" alt="разделитель кузни ПОЛИМАТ" />
+</div>
+<!--ФОРЖ:МУЗА:КОНЕЦ-->
+
+
 # singulyar-llm — локальная модель СИНГУЛЯРА
 
 <p align="center"><img src=".github/social-preview.png" alt="singulyar-llm" width="100%"></p>
@@ -97,3 +106,10 @@ Adapter OS: UNAVAILABLE с причиной, пока модель не загр
 > (каждая < 100 МБ лимита git, но 468 МБ суммарно не должны тянуть клон).
 > Сборка: скачай 6 ассетов, склей по порядку, сверь SHA-256 по MANIFEST.txt.
 >
+
+<!--ФОРЖ:ПОДВАЛ-->
+---
+
+<div align="center">
+  <sub>◆ картина и штандарт — ручная ковка <a href="https://github.com/rtynbirf">КУЗНИ ПОЛИМАТ</a> · ЧЕЛОВЕК=АККАУНТ=PID1 ◆</sub>
+</div>
