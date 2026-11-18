@@ -1,18 +1,18 @@
 <div align="center">
-  <img src="banner.png" alt="singulyar-llm — Локальная модель СИНГУЛЯРА: Qwen2.5-0.5B в GGUF" width="100%">
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/singulyar-llm@main/banner.png" alt="singulyar-llm — Локальная модель СИНГУЛЯРА: Qwen2.5-0.5B в GGUF" width="100%">
 </div>
 
 <!--ФОРЖ:МУЗА:НАЧАЛО-->
 <div align="center">
-  <img src="repo-muse.svg" width="100%" alt="Муза singulyar-llm: мастерская ПРОФИЛЬ-СОЗВЕЗДИЕ, кузня ПОЛИМАТ, раунд 12 · REVE=РЕВО" />
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/singulyar-llm@main/repo-muse.svg" width="100%" alt="Муза singulyar-llm: мастерская ПРОФИЛЬ-СОЗВЕЗДИЕ, кузня ПОЛИМАТ, раунд 12 · REVE=РЕВО" />
   <br/>
-  <img src="forge-divider.svg" width="62%" alt="делитель мастерской ПРОФИЛЬ-СОЗВЕЗДИЕ" />
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/singulyar-llm@main/forge-divider.svg" width="62%" alt="делитель мастерской ПРОФИЛЬ-СОЗВЕЗДИЕ" />
 </div>
 <!--ФОРЖ:МУЗА:КОНЕЦ-->
 
 <!--ФОРЖ:ПАСПОРТ:НАЧАЛО-->
 <div align="center">
-  <img src="revo-page.svg" width="100%" alt="РЕВО-паспорт страницы singulyar-llm: строение файлов, лексикон, числа — по фактическому контенту" />
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/singulyar-llm@main/revo-page.svg" width="100%" alt="РЕВО-паспорт страницы singulyar-llm: строение файлов, лексикон, числа — по фактическому контенту" />
 </div>
 
 | ФАЙЛОВ | ПАПОК | КОММИТОВ | ОБНОВЛЕНО | РЕЛИЗОВ |
@@ -24,7 +24,7 @@
 
 # singulyar-llm — локальная модель СИНГУЛЯРА
 
-<p align="center"><img src=".github/social-preview.png" alt="singulyar-llm" width="100%"></p>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/rtynbirf/singulyar-llm@main/.github/social-preview.png" alt="singulyar-llm" width="100%"></p>
 
 
 Веса + инструкционный слой для голосового управления СИНГУЛЯРОМ RUVSON.
