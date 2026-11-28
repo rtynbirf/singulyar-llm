@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/singulyar-llm@main/banner.png" alt="singulyar-llm — Локальная модель СИНГУЛЯРА: Qwen2.5-0.5B в GGUF" width="100%">
+
+<a href="https://github.com/rtynbirf/singulyar-llm"><img src="banner.png" width="100%" alt="singulyar-llm — штандарт мастерской в каноне ORNAMENTAL MYTHO-REALISM"></a>
+
 </div>
 
 <!--ФОРЖ:МУЗА:НАЧАЛО-->
@@ -12,13 +14,23 @@
 
 <!--ФОРЖ:ПАСПОРТ:НАЧАЛО-->
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/singulyar-llm@main/revo-page.svg" width="100%" alt="РЕВО-паспорт страницы singulyar-llm: строение файлов, лексикон, числа — по фактическому контенту" />
+  <img src="revo-page.svg" width="100%" alt="РЕВО-паспорт страницы singulyar-llm №54 в каноне ORNAMENTAL MYTHO-REALISM: орнаментальная решётка, медальон-миф, строение файлов, лексикон — по фактическому контенту" />
 </div>
 
 | ФАЙЛОВ | ПАПОК | КОММИТОВ | ОБНОВЛЕНО | РЕЛИЗОВ |
 |---:|---:|---:|---|---:|
-| 40 | 6 | 69 | 2026-11-16 | 1 |
+| 50 | 8 | 1 | 2026-11-28 | 1 |
 <!--ФОРЖ:ПАСПОРТ:КОНЕЦ-->
+
+# singulyar-llm
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/rtynbirf/singulyar-llm@main/banner.png" alt="singulyar-llm — Локальная модель СИНГУЛЯРА: Qwen2.5-0.5B в GGUF" width="100%">
+</div>
+
+
+
+
 
 
 
