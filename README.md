@@ -25,6 +25,18 @@
 # singulyar-llm
 
 <div align="center">
+
+<a href="https://github.com/rtynbirf/singulyar-llm"><img src="banner.png" width="100%" alt="singulyar-llm — штандарт мастерской в каноне ORNAMENTAL MYTHO-REALISM"></a>
+
+</div>
+
+
+
+
+
+# singulyar-llm
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/rtynbirf/singulyar-llm@main/banner.png" alt="singulyar-llm — Локальная модель СИНГУЛЯРА: Qwen2.5-0.5B в GGUF" width="100%">
 </div>
 
